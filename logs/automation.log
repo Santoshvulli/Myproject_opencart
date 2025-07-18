@@ -1,0 +1,73 @@
+2025-07-17 09:17:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 09:18:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 09:18:25 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 09:18:27 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 09:19:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 09:19:14 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 09:19:16 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 09:20:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 09:20:06 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 09:20:08 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 09:20:11 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 09:20:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 09:20:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grouping.xml
+
+2025-07-17 14:25:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:25:59 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:26:01 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:26:03 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:26:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:26:32 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:26:33 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:26:35 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:30:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:30:46 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:30:48 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:30:49 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:30:57 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:31:01 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:31:03 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:41:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:41:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:42:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:47:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:47:50 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:47:51 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:47:53 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:48:00 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:48:03 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:48:05 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:48:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Java Workspace\Myproject_opencart\grid.docker.xml
+
+2025-07-17 14:48:18 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:48:19 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:48:21 INFO  TC_001AccountregisterTest:33 - text conformation
+2025-07-17 14:48:26 INFO  TC_002LoginTest:36 - exicution is finished
+2025-07-17 14:48:30 INFO  TC_001AccountregisterTest:16 - Test execution started
+2025-07-17 14:48:32 INFO  TC_001AccountregisterTest:33 - text conformation
